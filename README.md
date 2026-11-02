@@ -1,2 +1,2 @@
-# Phishing-email-detection
+# Phishing Email Detection
 AI-Driven Phishing Email Detection Using NLP
