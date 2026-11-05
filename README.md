@@ -125,16 +125,6 @@ Ensure you have Python 3.8 or higher installed on your machine.
 
 2. **Create and activate a virtual environment:**
 
-   * **Linux / macOS:**
-
-     ```
-     python3 -m venv venv
-     source venv/bin/activate
-     
-     ```
-
-   * **Windows:**
-
      ```
      python -m venv venv
      venv\Scripts\activate
@@ -194,7 +184,6 @@ Execute cells sequentially from top to bottom to reproduce:
 | **Random Forest** | \~97.2% | High | High | \~0.97 | 
 | **Support Vector Machine (SVM)** | **\~97.8%** | **High** | **High** | **\~0.97** | 
 
-> *Note: Actual metrics may vary slightly based on random split seeds and hyperparameter settings in the notebook.*
 
 ## 🔮 Future Scope
 
